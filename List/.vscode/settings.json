@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sqlist.h": "c",
+        "stdio.h": "c",
+        "singlelinklist.h": "c"
+    }
+}
